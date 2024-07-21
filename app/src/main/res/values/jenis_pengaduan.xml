@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Jenis_Pengadaan_values">
+        <item>--- Pilih</item>
+        <item>Jaringan</item>
+        <item>Perangkat</item>
+        <item>Aplikasi</item>
+    </string-array>
+</resources>
